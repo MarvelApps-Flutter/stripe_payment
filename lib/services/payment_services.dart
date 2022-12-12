@@ -48,10 +48,7 @@ class PaymentService with CommonFunctions {
       await Stripe.instance.initPaymentSheet(
           paymentSheetParameters: SetupPaymentSheetParameters(
               paymentIntentClientSecret: _paymentIntentData?.clientSecret,
-              googlePay: true,
-              applePay: true,
               style: ThemeMode.dark,
-              merchantCountryCode: 'INR',
               merchantDisplayName: 'ubi'));
 
       await Stripe.instance.presentPaymentSheet();

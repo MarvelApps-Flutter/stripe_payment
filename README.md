@@ -1,16 +1,41 @@
-# stripe_demo
+# Stripe Demo Module
 
-A new Flutter project.
+A flutter app demonstrating the integration of stripe payment gateway.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Demo
+  <table>
+  <tr>
+  <td><img src="https://github.com/MarvelApps-Flutter/stripe_demo/blob/master/working_demo/stripe.gif" height="480px"></td>
+    </tr>
+  </table>
 
-A few resources to get you started if this is your first Flutter project:
+# Android Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/stripe_demo/blob/master/screenshots/android/android1.png" height="360px"></td></tr>
+    <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/stripe_demo/blob/master/screenshots/android/android2.png" height="360px"></td></tr>
+    <tr>
+ </table>
+ 
+ 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+</br>
+
+# IOS Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/stripe_demo/blob/master/screenshots/ios/ios1.png" height="360px"></td></tr>
+    <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/stripe_demo/blob/master/screenshots/ios/ios2.png" height="360px"></td></tr>
+    <tr>
+ </table>
+ 
+
+
+
+
